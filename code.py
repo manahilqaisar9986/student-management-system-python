@@ -6,7 +6,7 @@
 students = []
 
 
-# ------------------ Add Student ------------------
+# ---------- Add Student ----------
 def add_student():
     print("\n--- Add New Student ---")
 
@@ -44,7 +44,7 @@ def add_student():
     print("Student added successfully!")
 
 
-# ------------------ View Students ------------------
+# ---------- View Students ----------
 def view_students():
 
     print("\n--- Student List ---")
@@ -64,7 +64,7 @@ def view_students():
     print("Total Students:", len(students))
 
 
-# ------------------ Search Student ------------------
+# ---------- Search Student ----------
 def search_student():
 
     print("\n--- Search Student ---")
@@ -85,7 +85,7 @@ def search_student():
     print("Student not found.")
 
 
-# ------------------ Delete Student ------------------
+# ---------- Delete Student ----------
 def delete_student():
 
     print("\n--- Delete Student ---")
@@ -102,7 +102,7 @@ def delete_student():
     print("Student not found.")
 
 
-# ------------------ Main Menu ------------------
+# ---------- Main Menu ----------
 while True:
 
     print("\n===================================")
