@@ -1,10 +1,10 @@
 # student-management-system-python
-A beginner-friendly Student Management System 
+A beginner-friendly project
 <div align="center">
 
 # 🎓 Student Management System
 
-A simple **Student Management System** developed in **Python** using fundamental programming concepts such as **Functions, Lists, Dictionaries, Loops, and Conditional Statements**.
+This system developed in **Python** using fundamental programming concepts such as **Functions, Lists, Dictionaries, Loops, and Conditional Statements**.
 
 This console-based application allows users to manage student records through an interactive menu-driven interface.
 
