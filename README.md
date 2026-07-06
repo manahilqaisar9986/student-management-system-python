@@ -131,8 +131,6 @@ GitHub: **https://github.com/manahilqaisar9986**
 
 <div align="center">
 
-⭐ If you found this project helpful, please consider giving it a **Star**.
-
-Made with ❤️ using Python
+Thank you for visiting this repository!
 
 </div>
